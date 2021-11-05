@@ -20,7 +20,7 @@
 
 ## Live Demo 
 [Twitter-Clone](https://geek-twitterclone-app.herokuapp.com/)
-
+- https://geek-twitterclone-app.herokuapp.com/
 
 ## Usage
 
